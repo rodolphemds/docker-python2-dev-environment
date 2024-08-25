@@ -8,7 +8,7 @@ LOCAL_WORKDIR=$(cd $(dirname $(dirname "${BASH_SOURCE[0]}")) >/dev/null 2>&1 && 
 
 main() {
   # Variables.
-  local image_tag=python:3
+  local image_tag=python:2
   local local_workdir=$LOCAL_WORKDIR
   local local_port=8000
 
