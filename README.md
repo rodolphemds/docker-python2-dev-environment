@@ -76,7 +76,7 @@ Quick overview of project structure, components and their roles.
 
 ```
 ├── 📁.vscode/                              # VSCode configurations.
-├── 📄start-go-devcontainer.sh              # Shell script to run Python development container.
+├── 📄start-python2-devcontainer.sh         # Shell script to run Python development container.
 ├── 📄.devcontainer.json                    # VSCode Remote-Containers configuration.
 ├── 📄.gitignore
 ├── 📄Dockerfile                            # Instructions to build development Docker image.
